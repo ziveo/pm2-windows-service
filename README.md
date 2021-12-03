@@ -6,6 +6,11 @@ Allows easily installing and uninstalling [PM2](https://github.com/Unitech/PM2/)
   npm i @innomizetech/pm2-windows-service -g
 ```
 
+## Unattended install command
+```
+pm2-service-install -n PM2 --unattended
+```
+
 ## Installation
 
 See original documentation at [pm2-windows-service](https://github.com/jon-hall/pm2-windows-service)
